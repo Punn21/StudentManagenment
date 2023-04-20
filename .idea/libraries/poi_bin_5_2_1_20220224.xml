@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="poi-bin-5.2.1-20220224">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/poi-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/poi-ooxml-full-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/commons-compress-1.21.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/poi-examples-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/commons-codec-1.15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/commons-collections4-4.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/poi-javadoc-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/SparseBitSet-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/xmlbeans-5.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/poi-excelant-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/commons-math3-3.6.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/curvesapi-1.07.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/slf4j-api-1.7.36.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/commons-io-2.11.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/log4j-api-2.17.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/poi-ooxml-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/poi-ooxml-lite-5.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/THUVIEN/poi-bin-5.2.1-20220224/poi-scratchpad-5.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
